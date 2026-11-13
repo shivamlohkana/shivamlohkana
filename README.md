@@ -76,25 +76,6 @@ Passionate about clean code, open source, and building software that solves real
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivamlohkana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2F81F7&icon_color=F7931E" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamlohkana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=shivamlohkana&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=F7931E&currStreakLabel=F7931E" alt="GitHub streak" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamlohkana&bg_color=0D1117&color=2F81F7&line=F7931E&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
